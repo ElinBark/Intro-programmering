@@ -1,5 +1,12 @@
 Elin Bark Loggbok
 
+24-09-16
+-------------
+Gjort:
+* 7050 uppgift 4
+* 7050 uppgift 5 (inte klar än)
+* 7050 uppgift 6 (inte klar än)
+
 
 24-09-13
 -------------
