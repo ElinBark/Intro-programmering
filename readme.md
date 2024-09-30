@@ -1,5 +1,30 @@
 Elin Bark Loggbok
 
+24-09-30
+-------------
+Vi gick igenom slumptal och range
+
+Gjort:
+* 7061 exempel 1
+* 7061 uppgift 1
+* 7061 uppgift 2
+* 7061 upggift 3 (inte klar än)
+
+
+24-09-27
+-------------
+Gjort:
+* 7060 uppgift 1
+* 7060 uppgift 2
+* 7060 uppgift 3 (inte klar än)
+
+24-09-23
+-------------
+Gjort:
+* 7050 uppgift 5
+* 7050 uppgift 6 (inte riktigt klar än)
+* 7050 uppgift 7
+
 24-09-16
 -------------
 Gjort:
